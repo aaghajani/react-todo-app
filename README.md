@@ -15,7 +15,7 @@ A React todo application allows users to create data, read data based on search 
 # ☑ Siteintech
 [Designed and built by SITEINTECH](https://siteintech.ir/) 💎
 
-![cover](./logo.png)
+![cover](./siteintech.png)
 
 # Getting Started with Create React App
 
