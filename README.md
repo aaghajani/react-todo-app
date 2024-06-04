@@ -4,7 +4,7 @@
 
 # ☑ Information
 todo app with react.js
-complete and useful program.
+is a complete and useful program.
 A React todo application allows users to create data, read data based on search queries, easily modify data through the update operation, and delete the data when not needed.
 
 # ☑ Built With
