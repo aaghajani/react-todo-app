@@ -1,6 +1,6 @@
-![cover](./React-App-A.png)
+![cover](./Screen/screen1.png)
 # ☑ Live
-<center><a href="https://react.siteintech.ir/102/" target="_blank">React Todo App : Demo</a></center>
+<center><a href="https://react-todo-ap.netlify.app/" target="_blank">React Todo App : Demo</a></center>
 
 # ☑ Information
 todo app with react.js
@@ -10,12 +10,12 @@ A React todo application allows users to create data, read data based on search 
 # ☑ Built With
 [React](https://reactjs.org/) / [JavaScript](https://www.w3schools.com/js/) / [Bootstrap](https://getbootstrap.com/)
 
-![cover](./React-App-B.png)
+![cover](./Screen/screen2.png)
 
 # ☑ Siteintech
 [Designed and built by SITEINTECH](https://siteintech.ir/) 💎
 
-![cover](./siteintech.png)
+![cover](./logo.png)
 
 # Getting Started with Create React App
 
